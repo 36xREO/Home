@@ -20,8 +20,5 @@ The 'resume' page, you can print using the browser's Ctrl + P shortcut or the pu
 The contact page uses the [Formspree](https://formspree.io/){: target="_blank"} feature, you will have to have an account in the service, and add your email in the `_data/data.yml` file, in property `userdata => email`.
 
 If you want to use an image in your blog post, you should use the `_plugins/imager.rb` plugin. The image will be responsive. See the post 'Welcome to Jekyll' where it contains an example of how to use this plugin.
-
-Hey Nerd! How is it? You're analyzing me, but are not you using me? Use me now! I'm not into embellishment.
-
-
+Let's get some details:
 [Download](https://github.com/williamcanin/typing-jekyll-template){: target="_blank"}{: .btn-typing}
